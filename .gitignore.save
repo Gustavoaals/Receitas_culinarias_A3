@@ -1,13 +1,17 @@
 # macOS
 .DS_Store
+*.DS_Store
+*.save
+
+# Go
+*.exe
+*.out
 
 # Ambiente
 .env
 .env.*
 !.env.example
 
-# Chaves e credenciais
-*.pem
-*.key
-secrets.json
-credentials.json
+# Dependências e arquivos temporários
+vendor/
+tmp/
