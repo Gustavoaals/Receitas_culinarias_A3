@@ -1,4 +1,4 @@
-# API de Gerenciamento de Receitas Culinárias a3
+# API de Gerenciamento de Receitas Culinárias A3
 
 Estrutura inicial do projeto acadêmico.
 
