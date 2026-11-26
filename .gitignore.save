@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Ambiente
+.env
+.env.*
+!.env.example
+
+# Chaves e credenciais
+*.pem
+*.key
+secrets.json
+credentials.json
